@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Welcome!
+
+- 🔭 I’m currently working on [recipeek](https://github.com/mbchoa/recipeek) and [example-go-rest-api](https://github.com/mbchoa/recipeek) as my small pet projects on the weekends
+- 🌱 I’m currently learning golang for fun 
 
 <!--
 **mbchoa/mbchoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
