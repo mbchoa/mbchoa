@@ -1,4 +1,4 @@
-### 👋 Hello there!
+### Hello there!
 
 I'm an LA transplant, NY native and I currently work as a frontend engineer at [The Black Tux](https://theblacktux.com).
 
