@@ -1,7 +1,12 @@
-### 👋 Welcome!
+### 👋 Hello there!
 
-- 🔭 I’m currently working on [recipeek](https://github.com/mbchoa/recipeek) and [example-go-rest-api](https://github.com/mbchoa/recipeek) as my small pet projects on the weekends
-- 🌱 I’m currently learning golang for fun 
+I'm an LA transplant, NY native and I currently work as a frontend engineer at [The Black Tux](https://theblacktux.com).
+
+### What's happening?
+
+- ⚙️ recently created [ansible-role-rpi-k3s](https://github.com/mbchoa/ansible-role-rpi-k3s) and [ansible-secure-rpi-playbook](https://github.com/mbchoa/ansible-secure-rpi-playbook) from building my [k3s](https://k3s.io/) Raspberry Pi cluster
+
+- 🌱 learning [golang](https://golang.org/) for fun via [example-go-rest-api](https://github.com/mbchoa/example-go-rest-api)
 
 <!--
 **mbchoa/mbchoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
