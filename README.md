@@ -1,10 +1,12 @@
-### Hello there!
+# 👋 Hello there!
 
 I'm an LA transplant, NY native and I currently work as a frontend engineer at [The Black Tux](https://theblacktux.com).
 
 ### What's happening?
 
-- ⚙️ recently created [ansible-role-rpi-k3s](https://github.com/mbchoa/ansible-role-rpi-k3s) and [ansible-secure-rpi-playbook](https://github.com/mbchoa/ansible-secure-rpi-playbook) from building my [k3s](https://k3s.io/) Raspberry Pi cluster
+- 🩳 built a lil' URL shortener, [shorty](https://lil-shorty.glitch.me), to play around with [Vue](https://vuejs.org/), [fastify](https://www.fastify.io/) and [Monk](https://github.com/Automattic/monk)
+
+- ⚙️ created an Ansible [playbook](https://github.com/mbchoa/ansible-secure-rpi-playbook) and [role](https://github.com/mbchoa/ansible-role-rpi-k3s) to help automate k3s setup on my RPi cluster
 
 - 🌱 learning [golang](https://golang.org/) for fun via [example-go-rest-api](https://github.com/mbchoa/example-go-rest-api)
 
