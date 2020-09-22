@@ -4,6 +4,8 @@ I'm an LA transplant, NY native and I currently work as a frontend engineer at [
 
 ### What's happening?
 
+- 🍽️ currently working on, [aila](https://github.com/mbchoa/aila), a small pet project for generating food recommendations based on order history
+
 - 🩳 built a lil' URL shortener, [shorty](https://lil-shorty.glitch.me), to play around with [Vue](https://vuejs.org/), [fastify](https://www.fastify.io/) and [Monk](https://github.com/Automattic/monk)
 
 - ⚙️ created an Ansible [playbook](https://github.com/mbchoa/ansible-secure-rpi-playbook) and [role](https://github.com/mbchoa/ansible-role-rpi-k3s) to help automate k3s setup on my RPi cluster
