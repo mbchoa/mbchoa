@@ -1,11 +1,10 @@
 # 👋 Hello there!
 
-I'm an LA transplant (from NY originally) and I currently work as a fullstack (React+TypeScript / Django+Python) engineer at [The Black Tux](https://theblacktux.com).
+I'm Michael from Los Angeles working as a fullstack software engineer.
 
-### What's happening?
-
-- 📖 currently having a read through ["The Coding Career Handbook"](https://www.learninpublic.org/) written by [Shawn "swyx" Wang](https://www.swyx.io/)
-- 💡 based off Shawn's advice on #LearnInPublic, I'm trying to brainstorm ideas on how to do this. do i want to blog? do i want to just brain dump in a Github repo? still thinking through this
+### What I'm currently reading
+* [Never Split the Difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference) by Chris Voss and Tahl Raz
+* [The Simple Path to Wealth](https://www.goodreads.com/book/show/30646587-the-simple-path-to-wealth) by J.L. Collins
 
 ### Past Side Projects
 * ✂️ [lil-shorty](https://lil-shorty.glitch.me): first time using the Glitch platform, wanted to use newish tech and build a JS "full-stack" app
