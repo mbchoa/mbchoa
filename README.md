@@ -2,9 +2,8 @@
 
 I'm Michael from Los Angeles working as a fullstack software engineer.
 
-### What I'm currently reading
-* [Nudge: Improving Decisions About Health, Wealth, and Happiness](https://www.goodreads.com/book/show/58007618-nudge) by Richard H. Thaler and Cass R. Sunstein
-* [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/book/show/59694859-the-staff-engineer-s-path) by Tanya Reilly
+### What I'm currently reading (updated: 7/28/2023)
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/ro/book/show/33369254-the-manager-s-path) by Camille Fournier
 
 ### Recent Reads
 * [Recursion](https://www.goodreads.com/book/show/42046112-recursion) by Blake Crouch
