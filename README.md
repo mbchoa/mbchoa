@@ -1,8 +1,10 @@
 # 👋 Hello there!
 
-I'm Michael from Los Angeles working as a fullstack software engineer.
+I'm Michael, and I'm based in Los Angeles. Currently, I'm working as a full-stack software engineer at Ease Capital, helping build a tech-enabled commercial real estate lending platform. 
 
-### What I'm currently reading (updated: 7/28/2023)
+### What I'm currently reading (updated: 12/29/2023)
+* [The Emperor of All Maladies: A Biography of Cancer](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies) by Siddhartha Mukherjee
+* [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by Martin Kleppmann
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/ro/book/show/33369254-the-manager-s-path) by Camille Fournier
 
 ### Recent Reads
