@@ -1,13 +1,15 @@
 # 👋 Hello there!
 
-I'm Michael, and I'm based in Los Angeles. Currently, I'm working as a full-stack software engineer at Ease Capital, helping build a tech-enabled commercial real estate lending platform. 
+I'm Michael, a full-stack software engineer at Ease Capital, developing tech-enabled solutions that simplify commercial real estate lending and asset management for multifamily properties nationwide.
 
-### What I'm currently reading (updated: 12/29/2023)
-* [The Emperor of All Maladies: A Biography of Cancer](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies) by Siddhartha Mukherjee
-* [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by Martin Kleppmann
-* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/ro/book/show/33369254-the-manager-s-path) by Camille Fournier
+### What I'm currently reading (updated: 1/4/2025)
+* [Database Design for Mere Mortals: A Hands-On Guide to Relational Database Design](https://www.goodreads.com/book/show/150062.Database_Design_for_Mere_Mortals) by Michael J. Hernandez
+* [How to Win Friends & Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_Influence_People) by Dale Carnegie
+* [The Whole Brain Child](https://www.goodreads.com/book/show/10353369-the-whole-brain-child) by Daniel J. Siegel and Tina Payne Bryson
 
 ### Past Reads
+* [The Gifts of Imperfection](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) by Brené Brown
+* [The Emperor of All Maladies: A Biography of Cancer](https://www.goodreads.com/book/show/7170627-the-emperor-of-all-maladies) by Siddhartha Mukherjee
 * [Recursion](https://www.goodreads.com/book/show/42046112-recursion) by Blake Crouch
 * [We Were Dreamers: An Immigrant Superhero Origin Story](https://www.goodreads.com/en/book/show/52582665-we-were-dreamers) by Simu Liu
 * [Never Split the Difference](https://www.goodreads.com/book/show/26156469-never-split-the-difference) by Chris Voss and Tahl Raz
